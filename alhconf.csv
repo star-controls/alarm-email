@@ -1,0 +1,3 @@
+channel,description
+myApp:c1,calc in template ioc
+myApp:val2,value 2 in template ioc

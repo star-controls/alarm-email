@@ -1,0 +1,4 @@
+*.pyc
+*.py~
+login.csv
+subscribers.csv
