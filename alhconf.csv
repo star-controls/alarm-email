@@ -1,3 +1,7 @@
 channel,description
-myApp:c1,calc in template ioc
-myApp:val2,value 2 in template ioc
+dew_val2,platform temperature (F)
+dew_val4,platform dew point (f)
+dew_val1,platform humidity (%)
+TemperatureF,daq-room temperature (F)
+DewPointF,daq-room dew point (F)
+RHumidity,daq-room humidity (%)
