@@ -2,3 +2,6 @@
 *.py~
 login.csv
 subscribers.csv
+*.csv~
+subscribers_test1.csv
+subscribers_test2.csv
