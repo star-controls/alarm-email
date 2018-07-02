@@ -1,6 +1,6 @@
 channel,description
 dew_val2,platform temperature (F)
-dew_val4,platform dew point (f)
+dew_val4,platform dew point (F)
 dew_val1,platform humidity (%)
 TemperatureF,daq-room temperature (F)
 DewPointF,daq-room dew point (F)
